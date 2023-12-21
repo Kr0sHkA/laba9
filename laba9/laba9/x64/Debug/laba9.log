@@ -1,0 +1,4 @@
+﻿  laba9.cpp
+C:\Users\pisle\source\repos\laba9\laba9\laba9.cpp(27,14): warning C4101: fl: неиспользованная локальная переменная
+C:\Users\pisle\source\repos\laba9\laba9\laba9.cpp(28,10): warning C4101: zname: неиспользованная локальная переменная
+  laba9.vcxproj -> C:\Users\pisle\source\repos\laba9\x64\Debug\laba9.exe
